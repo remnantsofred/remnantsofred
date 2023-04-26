@@ -19,13 +19,13 @@ If you'd like to connect, you can email me at daphne.lam87@gmail.com.
 <br />
 
 - 🔭 I’m currently working on my full stack projects
-- 🌱 I’m currently learning Mongoose
+- 🌱 I’m currently learning Python and Typescript
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with data structures & algorithms 
 - 💬 Ask me about my cats Momo and Ash!
 - 📫 How to reach me: [daphne.lam87@gmail.com](mailto:daphne.lam87@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lamdaphne/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to laugh!
+- ⚡ Fun fact: I love to laugh! Bonus: making you laugh!
 <br />
 
 <!--### Languages and Tools:
