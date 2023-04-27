@@ -14,7 +14,7 @@ One big problem I could not solve in my HR career was the lack of female enginee
 My other passions include running, cooking, fitness and movement, cats, and finding joy in the small things.
 
 
-If you'd like to connect, you can email me at daphne.lam87@gmail.com.
+If you'd like to connect, you can email me at d.huff.lam@gmail.com.
 <br />
 <br />
 
