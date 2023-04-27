@@ -18,10 +18,10 @@ If you'd like to connect, you can email me at d.huff.lam@gmail.com.
 <br />
 <br />
 
-- 🔭 I’m currently working on my full stack projects
+- 🔭 I’m currently working on DS&A
 - 🌱 I’m currently learning Python and Typescript
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with data structures & algorithms 
+- 🤔 I’m looking for help with interviewing and networking 
 - 💬 Ask me about my cats Momo and Ash!
 - 📫 How to reach me: [d.huff.lam@gmail.com](mailto:d.huff.lam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lamdaphne/)
 - 😄 Pronouns: she/her
